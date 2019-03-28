@@ -2,7 +2,6 @@
 
 using namespace std;
 
-
 void merge(int arr[], int l, int m, int r)
 {
     int i, j, k;
